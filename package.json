@@ -1,0 +1,26 @@
+{
+  "name": "greetdemo",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "main.js",
+  "scripts": {
+    "test": "gulp",
+    "start": "node main.js"
+  },
+  "author": "Stefan Wentink",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^10.12.1",
+    "body-parser": "^1.18.3",
+    "concurrently": "^4.0.1",
+    "express": "^4.16.4",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^5.0.0-alpha.3",
+    "joi": "^14.0.2",
+    "mssql": "^4.2.2",
+    "typescript": "^3.1.4"
+  },
+  "devDependencies": {
+    "@types/mssql": "^4.0.10"
+  }
+}

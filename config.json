@@ -1,0 +1,13 @@
+{
+	"db": {
+        "user": "productstock",
+        "password": "productpass",
+        "server": "DESKTOP-VJ9ESHG",
+        "options": {
+            "database": "productstock",
+            "instanceName": "sqlexpress",
+            "encrypt": false,
+            "port": 49986
+        }
+	}
+}
